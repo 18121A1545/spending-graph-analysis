@@ -1,0 +1,216 @@
+source,target,weight
+restaurant,market,110
+restaurant,coffee,147
+restaurant,transport,40
+restaurant,other,10
+restaurant,events,7
+restaurant,health,4
+restaurant,business lunch,13
+restaurant,taxi,21
+restaurant,film/enjoyment,1
+restaurant,learning,10
+restaurant,sport,6
+restaurant,communal,6
+restaurant,phone,9
+restaurant,tech,1
+restaurant,joy,5
+restaurant,travel,1
+restaurant,fuel,4
+restaurant,clothing,2
+market,coffee,221
+market,restaurant,110
+market,transport,53
+market,communal,14
+market,clothing,14
+market,motel,1
+market,sport,8
+market,phone,35
+market,learning,12
+market,taxi,53
+market,events,9
+market,business lunch,136
+market,travel,1
+market,health,17
+market,other,29
+market,film/enjoyment,1
+market,joy,1
+market,fuel,1
+market,tech,2
+market,business_expenses,1
+coffee,market,278
+coffee,restaurant,145
+coffee,transport,66
+coffee,events,8
+coffee,learning,29
+coffee,business lunch,43
+coffee,taxi,48
+coffee,phone,37
+coffee,clothing,11
+coffee,health,9
+coffee,sport,3
+coffee,film/enjoyment,1
+coffee,other,13
+coffee,travel,1
+coffee,joy,3
+coffee,communal,3
+coffee,tech,4
+coffee,fuel,1
+coffee,business_expenses,4
+transport,restaurant,23
+transport,other,4
+transport,market,86
+transport,coffee,51
+transport,travel,1
+transport,phone,6
+transport,communal,2
+transport,business lunch,9
+transport,events,1
+transport,learning,2
+transport,taxi,9
+transport,film/enjoyment,1
+transport,health,2
+transport,clothing,1
+transport,sport,1
+other,phone,5
+other,restaurant,9
+other,taxi,6
+other,learning,1
+other,sport,2
+other,business lunch,4
+other,communal,2
+other,market,26
+other,coffee,12
+other,clothing,1
+other,transport,3
+other,joy,1
+other,health,1
+other,events,1
+phone,market,28
+phone,restaurant,15
+phone,business lunch,20
+phone,coffee,25
+phone,health,3
+phone,transport,5
+phone,taxi,8
+phone,clothing,2
+phone,other,2
+phone,fuel,2
+phone,sport,1
+phone,events,1
+phone,learning,3
+phone,tech,1
+phone,business_expenses,1
+communal,transport,3
+communal,phone,3
+communal,restaurant,3
+communal,market,8
+communal,business lunch,4
+communal,taxi,1
+communal,coffee,6
+communal,other,1
+communal,sport,1
+clothing,market,9
+clothing,coffee,13
+clothing,business lunch,2
+clothing,restaurant,6
+clothing,other,1
+clothing,events,1
+clothing,taxi,3
+clothing,health,1
+clothing,transport,1
+motel,travel,1
+travel,rent car,1
+travel,coffee,4
+travel,business lunch,1
+travel,market,2
+rent car,communal,1
+sport,restaurant,4
+sport,coffee,6
+sport,market,8
+sport,taxi,1
+sport,transport,2
+sport,business lunch,2
+sport,clothing,1
+sport,joy,1
+sport,other,1
+events,restaurant,9
+events,learning,2
+events,business lunch,2
+events,market,10
+events,coffee,9
+events,taxi,4
+events,health,1
+events,transport,1
+events,phone,1
+learning,market,21
+learning,transport,3
+learning,restaurant,11
+learning,coffee,21
+learning,business lunch,4
+learning,phone,3
+learning,travel,1
+learning,communal,1
+learning,other,2
+learning,events,1
+learning,health,1
+health,coffee,9
+health,restaurant,5
+health,market,17
+health,business lunch,4
+health,learning,1
+health,taxi,2
+health,other,1
+health,transport,5
+taxi,coffee,66
+taxi,restaurant,30
+taxi,transport,3
+taxi,business lunch,6
+taxi,market,37
+taxi,other,5
+taxi,clothing,2
+taxi,phone,5
+taxi,joy,2
+taxi,travel,1
+taxi,communal,1
+taxi,events,3
+taxi,health,2
+taxi,business_expenses,1
+business lunch,market,71
+business lunch,coffee,108
+business lunch,restaurant,16
+business lunch,taxi,7
+business lunch,travel,1
+business lunch,phone,12
+business lunch,health,2
+business lunch,transport,11
+business lunch,learning,8
+business lunch,events,6
+business lunch,clothing,2
+business lunch,sport,3
+business lunch,other,4
+business lunch,tech,1
+film/enjoyment,restaurant,1
+film/enjoyment,other,1
+film/enjoyment,market,2
+tech,coffee,4
+tech,restaurant,2
+tech,events,1
+tech,market,1
+tech,learning,1
+joy,business lunch,1
+joy,coffee,2
+joy,taxi,1
+joy,market,4
+joy,sport,1
+joy,restaurant,3
+joy,phone,1
+fuel,clothing,1
+fuel,business lunch,1
+fuel,restaurant,3
+fuel,health,1
+fuel,coffee,1
+fuel,transport,1
+business_expenses,restaurant,2
+business_expenses,coffee,2
+business_expenses,transport,2
+business_expenses,market,1
